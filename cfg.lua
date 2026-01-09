@@ -1,1 +1,1 @@
-local config = {['default'] = {key = 'key123'}, ["meta"] = {key = 'key123'}}
+local config = ['default'] = {{key = 'key123'}, ["meta"] = {key = 'key123'}}
